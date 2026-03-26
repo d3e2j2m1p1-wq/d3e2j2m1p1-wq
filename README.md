@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Miguel 👋
 
-<!--
-**d3e2j2m1p1-wq/d3e2j2m1p1-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics student at **Cal State East Bay** (May 2026) with a B.S. in IT Management.
+I build production-ready tools at the intersection of AI, data engineering, and full-stack development.
 
-Here are some ideas to get you started:
+### 🤖 Currently working on
+- **StreamBreaker AI** — GPT-3.5-turbo marketing strategy engine (MS Capstone, Apr 2026)
+- **LUNA Studio** — React PWA with a locally-trained ML model for AI meal planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+`Python` `R` `SQL` `JavaScript` `React` `Firebase`  
+`OpenAI API` `Anthropic Claude API` `Gemini API`  
+`scikit-learn` `Hadoop` `Hive` `Pig` `pandas`
+
+### 📬 Reach me
+📧 MiguelDavila001@icloud.com
