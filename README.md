@@ -1,6 +1,6 @@
 ## Hi, I'm Miguel 👋
 
-MS Business Analytics student at **Cal State East Bay** (May 2026) with a B.S. in IT Management.
+I have a Master's of Science in Business Analytics as well as a B.S. in IT Management.
 I build production-ready tools at the intersection of AI, data engineering, and full-stack development.
 
 ### 🤖 Currently working on
